@@ -1,0 +1,22 @@
+E:/term4/dsd/dsd/FinalProject/TB.sv {1 {vlog -work work -sv -stats=none E:/term4/dsd/dsd/FinalProject/TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} E:/term4/dsd/dsd/FinalProject/Handler.sv {1 {vlog -work work -sv -stats=none E:/term4/dsd/dsd/FinalProject/Handler.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Handler
+
+Top level modules:
+	Handler
+
+} {} {}} E:/term4/dsd/dsd/FinalProject/Asansor.sv {1 {vlog -work work -sv -stats=none E:/term4/dsd/dsd/FinalProject/Asansor.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Asansor
+
+Top level modules:
+	Asansor
+
+} {} {}}

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/WINDOWS/System32
+vAsansor
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1719592898
+!i10b 1
+!s100 i?3elWgbf?z8jmb4kKP7h0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKgoTWcf9D?cCE4:oDn>>K2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dE:/term4/dsd/dsd/FinalProject
+w1719592820
+8E:/term4/dsd/dsd/FinalProject/Asansor.sv
+FE:/term4/dsd/dsd/FinalProject/Asansor.sv
+!i122 0
+L0 2 57
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1719592896.000000
+!s107 E:/term4/dsd/dsd/FinalProject/Asansor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/term4/dsd/dsd/FinalProject/Asansor.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@asansor
+vHandler
+R0
+R1
+!i10b 1
+!s100 nmL_^RWk:dY>^e>Sn;OjL2
+R2
+ISYCXzCozTDZ4g01ePm_lE2
+R3
+S1
+R4
+w1719592827
+8E:/term4/dsd/dsd/FinalProject/Handler.sv
+FE:/term4/dsd/dsd/FinalProject/Handler.sv
+!i122 1
+L0 2 106
+R5
+r1
+!s85 0
+31
+Z8 !s108 1719592898.000000
+!s107 E:/term4/dsd/dsd/FinalProject/Handler.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/term4/dsd/dsd/FinalProject/Handler.sv|
+!i113 1
+R6
+R7
+n@handler
+vTB
+R0
+!s110 1719592899
+!i10b 1
+!s100 YjKhFYRU>S42c<oZIizbh3
+R2
+I29h``M35o:lk2?cM^:4c>0
+R3
+S1
+R4
+w1719592838
+8E:/term4/dsd/dsd/FinalProject/TB.sv
+FE:/term4/dsd/dsd/FinalProject/TB.sv
+!i122 2
+L0 1 88
+R5
+r1
+!s85 0
+31
+R8
+!s107 E:/term4/dsd/dsd/FinalProject/TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|E:/term4/dsd/dsd/FinalProject/TB.sv|
+!i113 1
+R6
+R7
+n@t@b

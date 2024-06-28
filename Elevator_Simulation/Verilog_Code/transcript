@@ -1,0 +1,58 @@
+# Compile of Asansor.sv was successful.
+# Compile of Handler.sv was successful.
+# Compile of TB.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.TB
+# vsim -gui work.TB 
+# Start time: 20:11:51 on Jun 28,2024
+# Loading sv_std.std
+# Loading work.TB
+# Loading work.Asansor
+# Loading work.Handler
+run -all
+# Time:  10 | PushedButtons: 00000 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time:  30 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time:  50 | PushedButtons: 00100 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time:  70 | PushedButtons: 00100 | Process: 1 | Dir: 1 | Floors: STOP |    - |    - |    - |    -
+# Time: 110 | PushedButtons: 00100 | Process: 1 | Dir: 1 | Floors:  OUT |   IN |    - |    - |    -
+# Time: 130 | PushedButtons: 00100 | Process: 1 | Dir: 1 | Floors:    - |  OUT |   IN |    - |    -
+# Time: 150 | PushedButtons: 00000 | Process: 0 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 470 | PushedButtons: 00010 | Process: 0 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 490 | PushedButtons: 00110 | Process: 1 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 510 | PushedButtons: 01010 | Process: 0 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 530 | PushedButtons: 01011 | Process: 1 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 550 | PushedButtons: 01011 | Process: 1 | Dir: 0 | Floors:    - |   IN |  OUT |    - |    -
+# Time: 570 | PushedButtons: 01001 | Process: 0 | Dir: 0 | Floors:    - | STOP |    - |    - |    -
+# Time: 590 | PushedButtons: 01001 | Process: 1 | Dir: 1 | Floors:    - | STOP |    - |    - |    -
+# Time: 670 | PushedButtons: 01001 | Process: 1 | Dir: 1 | Floors:    - |  OUT |   IN |    - |    -
+# Time: 690 | PushedButtons: 01001 | Process: 1 | Dir: 1 | Floors:    - |    - |  OUT |   IN |    -
+# Time: 710 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors:    - |    - |    - | STOP |    -
+# Time: 730 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:    - |    - |    - | STOP |    -
+# Time: 810 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:    - |    - |   IN |  OUT |    -
+# Time: 830 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:    - |   IN |  OUT |    - |    -
+# Time: 850 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:   IN |  OUT |    - |    - |    -
+# Time: 870 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time: 890 | PushedButtons: 00000 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time: 950 | PushedButtons: 00100 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time: 970 | PushedButtons: 10100 | Process: 1 | Dir: 1 | Floors:  OUT |   IN |    - |    - |    -
+# Time: 990 | PushedButtons: 10100 | Process: 1 | Dir: 1 | Floors:    - |  OUT |   IN |    - |    -
+# Time: 1010 | PushedButtons: 10000 | Process: 0 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 1030 | PushedButtons: 10000 | Process: 1 | Dir: 1 | Floors:    - |    - | STOP |    - |    -
+# Time: 1110 | PushedButtons: 10000 | Process: 1 | Dir: 1 | Floors:    - |    - |  OUT |   IN |    -
+# Time: 1130 | PushedButtons: 10000 | Process: 1 | Dir: 1 | Floors:    - |    - |    - |  OUT |   IN
+# Time: 1150 | PushedButtons: 00000 | Process: 0 | Dir: 0 | Floors:    - |    - |    - |    - | STOP
+# Time: 1390 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors:    - |    - |    - |    - | STOP
+# Time: 1410 | PushedButtons: 00101 | Process: 1 | Dir: 0 | Floors:    - |    - |    - |    - | STOP
+# Time: 1450 | PushedButtons: 00101 | Process: 1 | Dir: 0 | Floors:    - |    - |    - |   IN |  OUT
+# Time: 1470 | PushedButtons: 00101 | Process: 1 | Dir: 0 | Floors:    - |    - |   IN |  OUT |    -
+# Time: 1490 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 1510 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:    - |    - | STOP |    - |    -
+# Time: 1590 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:    - |   IN |  OUT |    - |    -
+# Time: 1610 | PushedButtons: 00001 | Process: 1 | Dir: 0 | Floors:   IN |  OUT |    - |    - |    -
+# Time: 1630 | PushedButtons: 00001 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# Time: 1650 | PushedButtons: 00000 | Process: 0 | Dir: 0 | Floors: STOP |    - |    - |    - |    -
+# ** Note: $stop    : E:/term4/dsd/dsd/FinalProject/TB.sv(64)
+#    Time: 2400 ps  Iteration: 0  Instance: /TB
+# Break in Module TB at E:/term4/dsd/dsd/FinalProject/TB.sv line 64
+# End time: 20:12:19 on Jun 28,2024, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 7
