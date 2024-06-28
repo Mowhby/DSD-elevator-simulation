@@ -22,6 +22,7 @@ After entering this section, if there is no error, the output will be displayed 
 ![LOGO](https://github.com/Mowhby/assets/blob/main/Screenshot%202024-06-29%20022348.png)
 
 # Result
+after simulation we can see this result in the terminal:
 ![LOGO](https://github.com/Mowhby/assets/blob/main/Screenshot%202024-06-28%20151257.png)
 # Author
 - [mohammad hasan bayatiany](https://github.com/Mowhby/)
